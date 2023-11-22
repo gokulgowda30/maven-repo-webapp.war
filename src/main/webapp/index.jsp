@@ -45,7 +45,7 @@ button {
 </style>   
 </head>    
 <body>    
-    <center> <h1> Student Login Fom </h1> </center>   
+    <center> <h1> Student Login ForSm </h1> </center>   
     <form>  
         <div class="container">   
             <label>Username : </label>   
